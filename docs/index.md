@@ -6,3 +6,4 @@
 - command - shift - p (Type in fetch from all remotes) if the branch isn't visible in the bottom left-hand corner.
 - A pull request can be created from VS Code. (Github Extension)
 - On the Pull Request Tab - Assign myself as an Assignee and add Robin as the Reviewer.
+- In the PR in Github there is a tab called "Files Changed". Questions can be left here about what I've coded. 
